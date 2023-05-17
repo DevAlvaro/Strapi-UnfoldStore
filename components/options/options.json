@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_options_options",
+  "info": {
+    "name": "options",
+    "icon": "ad",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ml_avista_link": {
+      "type": "string"
+    },
+    "ml_avista_value": {
+      "type": "decimal"
+    },
+    "ml_fg_link": {
+      "type": "string"
+    },
+    "ml_fg_value": {
+      "type": "decimal"
+    },
+    "shp_link": {
+      "type": "string"
+    },
+    "shp_value": {
+      "type": "decimal"
+    }
+  }
+}
